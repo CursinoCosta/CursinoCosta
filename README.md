@@ -16,6 +16,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img style="height: 40px" alt="Python Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
  <div style="display: inline_block">
    <img align="right" height="180em" alt="Image" src="https://randomc.net/image/3-gatsu%20no%20Lion/3-gatsu%20no%20Lion%202nd%20Season%20-%2021%20-%20Large%2036.jpg">
  </div>
