@@ -30,3 +30,10 @@
   </br>
   <a href = "mailto: mateuscgcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="height: 35px"></></a>
 </br>
+
+
+
+
+- Estudo Ciência da Computação na UFMG
+- Busco sempre mais aprendizado e novas oportunidades
+- Gosto muito do que estudo e faço
