@@ -1,38 +1,58 @@
 ## Me chamo Mateus Costa e sou graduando em Ciência da Computação
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <div align="center">
+<!-- Logos Acadêmicas -->
+<div align="center" style="margin: 20px 0;">
+  <img height="50" alt="UFMG Logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_UFMG.jpg">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="80" alt="DCC UFMG" src="https://yt3.googleusercontent.com/psTnhgc_IA3fmtXzJUprJLCWJmNLDQVwm2nE5XekMGauKzSgvIR0eTrkGfD6V8Yf8nahcvwPaQ=s900-c-k-c0x00ffffff-no-rj">
 
+<div align="center">
   <a href="https://github.com/CursinoCosta">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CursinoCosta&layout=compact&langs_count=16&theme=midnight-purple"/>
- 
+    <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=CursinoCosta&layout=compact&langs_count=16&theme=midnight-purple" alt="Top Langs" />
+  </a>
 </div>
 
- ## Skills 
-<div style="display: inline_block" >
-   <img style="height: 40px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img style="height: 40px" alt="C++ Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img style="height: 40px" alt="Python Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 </div>
- <div style="display: inline_block">
-   <img align="right" height="180em" alt="Image" src="https://randomc.net/image/3-gatsu%20no%20Lion/3-gatsu%20no%20Lion%202nd%20Season%20-%2021%20-%20Large%2036.jpg">
- </div>
-   
+
+## Skills 
+
+<table border="0" width="100%">
+  <tr>
+    <!-- QUADRANTE 1: Linguagens (Empilhadas Verticalmente) -->
+    <td width="20%" align="center" valign="middle">
+      <img height="45" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+      <br><br>
+      <img height="45" alt="C++ Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+      <br><br>
+      <img height="45" alt="Python Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    </td>
+    <!-- QUADRANTE 2: Power BI -->
+    <td width="40%" align="center" valign="middle">
+      <p><b>Power BI</b></p>
+      <img width="250" alt="Power BI" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png">
+    </td>
+    <!-- QUADRANTE 3: Data Engineering -->
+    <td width="40%" align="center" valign="middle">
+      <p><b>Data Engineering</b></p>
+      <img height="400" alt="Data Engineering Illustration" src="https://miro.medium.com/v2/0*K9nCycWkKKJSfoT7.jpeg">
+    </td>
+  </tr>
+</table>
+
+## Contato
+
+<div style="margin-top: 10px;"> 
+  <a href="https://www.linkedin.com/in/mateus-cursino-gomes-costa-874836204/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:mateuscgcosta@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
- 
- ## Contato
- <div> 
-   <a href="https://www.linkedin.com/in/mateus-cursino-gomes-costa-874836204/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="height: 35px"></></a>
- </br>
-  <a href = "mailto: mateuscgcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="height: 35px"></></a>
-</br>
 
+---
 
-
-
-- Estudo Ciência da Computação na UFMG
-- Busco sempre mais aprendizado e novas oportunidades
-- Gosto muito do que estudo e faço
+- 🎓 Estudo Ciência da Computação na **UFMG** (DCC)
+- 🛠️ Focado em **Engenharia de Dados** e extração de valor em larga escala
+- 🚀 Busco sempre mais aprendizado e novas oportunidades
