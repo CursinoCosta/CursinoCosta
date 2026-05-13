@@ -2,9 +2,9 @@
 
 <!-- Logos Acadêmicas -->
 <div align="center" style="margin: 20px 0;">
-  <img height="50" alt="UFMG Logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_UFMG.jpg">
+  <img height="100" alt="UFMG Logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_UFMG.jpg">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="80" alt="DCC UFMG" src="https://yt3.googleusercontent.com/psTnhgc_IA3fmtXzJUprJLCWJmNLDQVwm2nE5XekMGauKzSgvIR0eTrkGfD6V8Yf8nahcvwPaQ=s900-c-k-c0x00ffffff-no-rj">
+  <img height="100" alt="DCC UFMG" src="https://yt3.googleusercontent.com/psTnhgc_IA3fmtXzJUprJLCWJmNLDQVwm2nE5XekMGauKzSgvIR0eTrkGfD6V8Yf8nahcvwPaQ=s900-c-k-c0x00ffffff-no-rj">
 
 <div align="center">
   <a href="https://github.com/CursinoCosta">
